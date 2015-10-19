@@ -1,0 +1,17 @@
+{
+  "name": "brackets-modo-markup",
+  "title": "MODO Filetypes",
+  "description": "MODO file extension support.",
+  "homepage": "https://github.com/adamohern/brackets-for-modo",
+  "version": "1.0.0",
+  "author": "Adam OHern (adam.mechanicalcolor.com)",
+  "license": "MIT",
+  "keywords": [
+    "MODO",
+    "CFG",
+    "language"
+  ],
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
